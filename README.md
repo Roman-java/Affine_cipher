@@ -1,1 +1,1 @@
-# Affine_cipher
+Affin cipher implementation
